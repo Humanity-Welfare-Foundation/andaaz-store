@@ -1,1 +1,2 @@
 # andaaz-store
+ANDAAZ - Online Shopping and Reselling Platform
